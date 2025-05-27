@@ -100,6 +100,7 @@
 
 # ► Learning Sites
 
+* 🌐 **[Learn Python]([https://pyuniverse.com/](https://pyuniverse.com/python-programming/))** - Learn Python / [Learn Artificial Intelligence[]([https://rentry.co/FMHYBase64#learn-anything](https://pyuniverse.com/artificial-intelligence/))
 * 🌐 **[Learn Anything](https://learn-anything.xyz/)** - Learning Resource Search / [Free Method](https://rentry.co/FMHYBase64#learn-anything)
 * 🌐 **[Wakelet](https://wakelet.com/explore)** - Learning Resources
 * 🌐 **[WISC](https://www.wisc-online.com/)** - Learning Resources
